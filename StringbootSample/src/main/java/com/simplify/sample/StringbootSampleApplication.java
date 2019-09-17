@@ -15,6 +15,8 @@ public class StringbootSampleApplication {
 		// sample2
 
 		SpringApplication.run(StringbootSampleApplication.class, args);
+		
+		// sample2 add
 	}
 
 }
