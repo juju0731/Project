@@ -18,6 +18,11 @@ public class StringbootSampleApplication {
 		// sampla add
 
 		SpringApplication.run(StringbootSampleApplication.class, args);
+		
+		// sample2 add
+		
+		
+		// sample 4444444444444
 	}
 
 }
