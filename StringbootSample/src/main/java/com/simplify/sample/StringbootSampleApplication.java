@@ -8,9 +8,8 @@ public class StringbootSampleApplication {
 
 	public static void main(String[] args) {
 
-		//TEST22
 		// TEST
-		// TEST
+		// TEST22
 
 		SpringApplication.run(StringbootSampleApplication.class, args);
 	}
