@@ -10,6 +10,7 @@ public class StringbootSampleApplication {
 
 		// TEST
 		// TEST22
+		// TEST22
 
 		SpringApplication.run(StringbootSampleApplication.class, args);
 	}
