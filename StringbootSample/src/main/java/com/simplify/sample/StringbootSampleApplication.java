@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class StringbootSampleApplication {
+	
+	// master origin
 
 	public static void main(String[] args) {
 
