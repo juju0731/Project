@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StringbootSampleApplication {
 	
 	// master origin
+	// master origin2222222222
 
 	public static void main(String[] args) {
 
